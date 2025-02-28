@@ -19426,6 +19426,15 @@ main {
   @media (max-width: 48em) {
     .about__row {
       min-width: 40rem; } }
+  @media (max-width: 35.9375em) {
+    .about__row {
+      min-width: 40rem; } }
+  @media (max-width: 27.375em) {
+    .about__row {
+      min-width: 29rem; } }
+  @media (max-width: 21.1875em) {
+    .about__row {
+      min-width: 15rem; } }
   .about__wrapper {
     display: flex;
     flex-direction: column;
